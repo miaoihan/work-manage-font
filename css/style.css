@@ -33,7 +33,7 @@
     margin: 0;
     padding: 0;
   }
-  // 取消聚焦和textarea放大
+  /** 取消聚焦和textarea放大 **/
   input,button,select,textarea{
   outline:none
   }textarea{resize:none}
