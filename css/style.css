@@ -179,12 +179,13 @@ background: #f7f8fa}
 
 .h-l-inner {
     height: 230px;
+/*    max-height: 230px;*/
 /*    width: 415px;*/
     background-color: #ef1255;
     text-align: center;
     line-height: 230px;
     color: #fff;
-    font-size: 32px;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
@@ -202,6 +203,7 @@ background: #f7f8fa}
     border-bottom: 1px solid #efefef;
     padding-bottom: 20px;
     margin-top: 20px;
+/*    max-height: 230px;*/
 }
 
 .que-item .item-title{
@@ -318,7 +320,7 @@ footer{
 }
 
 .que-meta {
-    color: #999;
+    color: #a1aebf;
     font-size: 12px;
     margin: 15px 0
 }
