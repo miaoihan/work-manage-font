@@ -139,7 +139,7 @@ img{
 
 .meta{
     font-size: 12px;
-    color: #999;
+    color: #a1aebf;
 }
 
 
@@ -347,4 +347,8 @@ footer{
 
 .ans-avator {
     width: 50px;
+}
+
+.ans-item {
+    padding: 15px 0 5px 10px
 }
