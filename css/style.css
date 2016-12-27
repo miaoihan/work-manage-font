@@ -12,7 +12,9 @@
     font-family: "Helvetica Neue", Arial, verdana, sans-serif;
   }
   a {
-    display: inline-block;
+/*    display: inline-block;*/
+      color: #333;
+      
   }
   /*
   KISSY CSS Reset
@@ -233,7 +235,7 @@ background: #f7f8fa}
 }
 
 .c-right {
-    background-color: #ebebeb;
+/*    background-color: #ebebeb;*/
     height: 80%;
     padding: 30px 15px;
 }
@@ -341,4 +343,8 @@ footer{
     font-size: 12px;
     text-align: center;
     margin-bottom: 10px;
+}
+
+.ans-avator {
+    width: 50px;
 }
